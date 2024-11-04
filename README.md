@@ -1,3 +1,4 @@
+
 # WeatherInfo
 
 Welcome to **WeatherInfo**, your go-to app for real-time weather updates and forecasts. Stay informed about the weather conditions in your area or any location around the globe.
